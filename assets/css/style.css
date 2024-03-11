@@ -88,7 +88,10 @@ h6 {
 .navbar {
   padding: 0;
 }
-
+.portfolio .portfolio-item .portfolio-img {
+  overflow: hidden;
+  margin: 25px 0px;
+}
 
 .navbar ul {
   margin: 0;
